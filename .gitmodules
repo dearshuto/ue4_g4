@@ -1,0 +1,3 @@
+[submodule "Externals/g4"]
+	path = Externals/g4
+	url = git@github.com:dearshuto/g4.git
